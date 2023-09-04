@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.like{
+  display: flex;
+  align-items: center;
+}
+.profile{
+  display: flex;
+  align-items: start;
+  justify-items: center;
+  border: 3px solid black;
+  border-radius: 7px;
+
+}
+.App {
+  display: flex;
+  flex-direction: column;
+}
